@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Entery/Entery.unity
+    guid: 89b334e9cddcfaf44844ee7f133ad81e
+  - enabled: 1
+    path: Assets/Game/FirstDay.unity
+    guid: b4e591bc18643ed4d9b204b244a1dfb2
+  - enabled: 1
+    path: Assets/Online Game/FirstDay 1.unity
+    guid: d7363537c12023542a4db9dd5e56d186
+  - enabled: 1
+    path: Assets/MatchUpScreen/MatchingUp.unity
+    guid: 366f336a772ff3a47a205b8c7ca73baa
+  m_configObjects: {}
